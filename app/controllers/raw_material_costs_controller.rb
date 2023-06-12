@@ -1,0 +1,2 @@
+class RawMaterialCostsController < ApplicationController
+end

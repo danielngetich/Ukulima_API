@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  farmer_crop: one
+  raw_material: one
+  cost: 9.99
+
+two:
+  farmer_crop: two
+  raw_material: two
+  cost: 9.99

@@ -1,0 +1,2 @@
+class CropRawMaterialsController < ApplicationController
+end
