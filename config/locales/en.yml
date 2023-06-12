@@ -31,3 +31,7 @@
 
 en:
   hello: "Hello world"
+en:
+  faker:
+    address:
+      county: County
